@@ -1,6 +1,6 @@
 # OpenNIC Switcher
 
-OpenNIC Swticher is an OSX application that tries to make it easy using a
+OpenNIC Switcher is an OSX application that tries to make it easy using a
 DNS server from the OpenNIC server list.
 
 ## What is OpenNIC
@@ -41,3 +41,5 @@ TBD.
 ## License
 
 Copyright Franck Verrot - 2014. GPL v3 see LICENSE.txt for details.
+
+[wikipage]: http://wiki.opennicproject.org/HomePage
