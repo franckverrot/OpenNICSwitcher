@@ -37,6 +37,8 @@ TBD.
 
 * [ ] Good-looking UI
 * [ ] Quick screencast of how this works
+* [ ] Provide more DNS IPs from http://wiki.opennicproject.org/Tier2
+* [ ] Dynamically load the list listed above in case it changes
 
 ## License
 
