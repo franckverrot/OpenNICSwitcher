@@ -1,0 +1,24 @@
+[
+  {
+  "status": "normal",
+  "ipaddress": "151.236.6.6",
+  "hostname": "ns1.vie.at.dns.opennic.glue",
+  "owner": "EDIS GmbH",
+  "city": "VIE",
+  "country": "AT",
+  "last_verified": "2014-10-18",
+  "anon_logs": "yes",
+  "logs": "Logging completely disabled"
+},
+{
+  "status": "normal",
+  "ipaddress": "111.67.16.202",
+  "hostname": "ns1.vic.au.dns.opennic.glue",
+  "owner": "Nesa",
+  "city": "VIC",
+  "country": "AU",
+  "last_verified": "2014-10-18",
+  "anon_logs": "no",
+  "logs": ""
+}
+]

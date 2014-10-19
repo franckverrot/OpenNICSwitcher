@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    bubble-wrap (1.7.1)
+      bubble-wrap-http (= 1.7.1)
+    bubble-wrap-http (1.7.1)
+    dbt (1.1.5)
+    motion-kit (0.14.0)
+      dbt (~> 1.1.5)
+    rake (10.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bubble-wrap (~> 1.7.1)
+  motion-kit
+  rake
