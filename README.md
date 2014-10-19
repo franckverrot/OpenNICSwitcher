@@ -35,8 +35,8 @@ TBD.
 
 ## TODO
 
-[ ] Good-looking UI
-[ ] Quick screencast of how this works
+* [ ] Good-looking UI
+* [ ] Quick screencast of how this works
 
 ## License
 
